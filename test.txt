@@ -1,1 +1,3 @@
 Some text new page
+
+This is new and you should read test.txt 
